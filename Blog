@@ -1,14 +1,20 @@
 WEB DEVELOPMENT:
+  FRONT-END:
      HTML:Basics-
           headers,paragraphs,attributes,quotations,images,tables,inline ,inline -block,div...
      CSS :Basics-
           borders,fonts,position,forms,styles..
 
-     BOOTSTRAP:basics-
+     BOOTSTRAP:Basics-
           buttons..
 
      JAVASCRIPT:Basics-
           conditional statements,loops..
       JQUERY:Basics:
           selectors,events..
+   BACK-END:
+      PHP:Basics-
+           file-handling,cookies,AJAX..
+          
+          
 
